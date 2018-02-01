@@ -11,10 +11,12 @@
 }
 .heroes li {
   cursor: pointer;
+  display: grid;
+  grid-template-columns: 50px auto;
   position: relative;
   left: 0;
   background-color: #EEE;
-  margin: .5em;
+  margin: .3em;
   padding: .3em 0;
   height: 1.6em;
   border-radius: 4px;
