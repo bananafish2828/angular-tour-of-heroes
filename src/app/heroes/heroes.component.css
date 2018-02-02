@@ -11,8 +11,6 @@
 }
 .heroes li {
   cursor: pointer;
-  display: grid;
-  grid-template-columns: 50px auto;
   position: relative;
   left: 0;
   background-color: #EEE;
